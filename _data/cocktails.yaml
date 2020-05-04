@@ -17,9 +17,36 @@
     - 2 oz. Campari
     - 1.5 oz. sweet vermouth (Carpano Antica)
     - 0.5 oz. Cynar 70
+    - slice of blood orange
   substitutions:
     - 0.5 oz. amaro sfumato, subtract 0.5 oz. vermouth
     - 2 oz. Aperol for Campari, sub 0.5 oz. vermouth, increase Cynar by 0.5 oz
   thanks:
     - name: Drew Suarez
       url: https://utkanos.io
+- name: Aviation
+  description: |
+    Based on the original Aviation recipe, but with reduced gin and
+    increased lemon and maraschino, to balance the cocktail a little
+    bit away from the sometimes overpowering sourness of the original,
+    which calls for 2 oz. gin. The creme de violette is genuinely
+    important, and gives the cocktail its eye-catching color.
+  instructions: |
+    Combine in a shaker half-filled with ice. Shake intensely for
+    10-15 seconds, serve up in a coupe or martini glass, decorated
+    with a lemon peel (preferably flamed).
+  flavors:
+    - Sweet
+    - Herbal
+  servings: 1
+  proportions:
+    - 1.25 oz. gin (dry, juniper-forward)
+    - 0.75 oz. lemon juice
+    - 0.5 oz. maraschino liqueuer
+    - 0.5 oz. creme de violette
+    - flamed lemon peel
+  substitutions:
+    - Subtract 0.25 oz. gin, subtract 0.25 oz. creme de violette to
+      match
+  thanks:
+    - name: "#cocktails"
