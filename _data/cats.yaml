@@ -20,3 +20,14 @@
     Ollie is so chonky, we've had to get chip feeders to keep him from overeating.
   image: /assets/images/ollie.png
   human: brajkovic
+- name: Mazikeen
+  type: DLH
+  age: < 1
+  size: Skinny
+  pattern: Sooty
+  likes: Treats, Snuggles (on her terms)
+  dislikes: Attention
+  description: |
+    She believes she is a ninja, and is always dismayed when we see her.
+  image: /assets/images/Mazikeen.png
+  human: brent
